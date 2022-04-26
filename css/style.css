@@ -1,0 +1,24 @@
+body {
+  background: #baf5e6;
+}
+
+#rock {
+  background-color: #4CAF50;
+  font-size: 24px;
+  padding: 32px 16px;
+  border-radius: 12px;
+}
+
+#paper {
+  background-color: #008CBA;
+  font-size: 24px;
+  padding: 32px 16px;
+  border-radius: 12px;
+}
+
+#scissors {
+  background-color: #f44336;
+  font-size: 24px;
+  padding: 32px 16px;
+  border-radius: 12px;
+}
